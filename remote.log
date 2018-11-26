@@ -1,0 +1,1 @@
+c93c30f4-e364-46f1-8eea-eaa875e5c666 bucket=laptop-S3-c93c30f4-e364-46f1-8eea-eaa875e5c666 datacenter=US encryption=none host=127.0.0.1 name=laptop-S3 port=9000 requeststyle=path storageclass=STANDARD type=S3 timestamp=1543206618.896513073s
